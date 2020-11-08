@@ -1,0 +1,6 @@
+C:\git\StringAccumulator\StringAccumulator\bin\Debug\StringAccumulator.dll
+C:\git\StringAccumulator\StringAccumulator\bin\Debug\StringAccumulator.pdb
+C:\git\StringAccumulator\StringAccumulator\obj\Debug\StringAccumulator.csprojAssemblyReference.cache
+C:\git\StringAccumulator\StringAccumulator\obj\Debug\StringAccumulator.csproj.CoreCompileInputs.cache
+C:\git\StringAccumulator\StringAccumulator\obj\Debug\StringAccumulator.dll
+C:\git\StringAccumulator\StringAccumulator\obj\Debug\StringAccumulator.pdb
